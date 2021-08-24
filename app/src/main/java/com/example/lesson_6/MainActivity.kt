@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var nameLIst = ArrayList<String>()
-        nameLIst.add("серега")
+        nameLIst.add("серега-разраб")
         nameLIst.add("леха")
         nameLIst.add("егор")
         nameLIst.add("степан")
